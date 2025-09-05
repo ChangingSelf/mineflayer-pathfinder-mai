@@ -1,6 +1,10 @@
-# Mineflayer-pathfinder
+# mineflayer-pathfinder-mai
 
-[![npm version](https://badge.fury.io/js/mineflayer-pathfinder.svg)](https://badge.fury.io/js/mineflayer-pathfinder) ![npm](https://img.shields.io/npm/dt/mineflayer-pathfinder) [![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/PrismarineJS/mineflayer-pathfinder) [![Issue Hunt](https://github.com/BoostIO/issuehunt-materials/blob/master/v1/issuehunt-shield-v1.svg)](https://issuehunt.io/r/PrismarineJS/mineflayer-pathfinder)
+> This is a fork of [mineflayer-pathfinder v2.4.5](https://github.com/PrismarineJS/mineflayer-pathfinder) at 2025-09-05,for the project [maicraft-mcp-server](https://github.com/ChangingSelf/maicraft-mcp-server) and [maicraft](https://github.com/MaiM-with-u/Maicraft).
+> 
+>Thanks to [Github user Hatadi-v's pull request to fix towering](https://github.com/PrismarineJS/mineflayer-pathfinder/pull/348)
+
+---
 
 Pathfinding plugin for the Minecraft Bot API [Mineflayer](https://github.com/PrismarineJS/mineflayer). Create static, dynamic or composite goals to navigate Minecraft terrain fully autonomously.
 
