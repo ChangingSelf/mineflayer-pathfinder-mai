@@ -7,7 +7,7 @@ import { Entity } from 'prismarine-entity';
 import { World } from 'prismarine-world'
 import AStar from './lib/astar';
 
-declare module 'mineflayer-pathfinder' {
+declare module 'mineflayer-pathfinder-mai' {
 	export function pathfinder(bot: Bot): void;
 
 	export interface Pathfinder {
